@@ -1,0 +1,45 @@
+.about-name {
+	text-align: center;
+	font-weight: bold
+}
+
+.about-post {
+	text-align: center;
+	font-size: 0.8em;
+	margin-bottom: 0px
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-6, .col-md-12 {
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.social-buttons {
+	float: right;
+	margin: 10px;
+	padding: auto
+}
+
+.about-image {
+	border: 1px solid gray;
+	border-radius: 15px;
+	background: url("images/placeholderM.png");
+	background-repeat: no-repeat;
+	padding: 5px;
+	margin: auto;
+	width: 250px;
+	height: 307px;
+	background-size: 300px 368px
+}
+
+.about-image#imgF {
+	border: 1px solid gray;
+	border-radius: 15px;
+	background: url("images/placeholderF.png");
+	background-repeat: no-repeat;
+	padding: 5px;
+	margin: auto;
+	width: 250px;
+	height: 307px;
+	background-size: 300px 368px
+}
