@@ -10,15 +10,22 @@
 	margin-bottom: 0px
 }
 
+.about-post a, .about-post a:hover {
+	text-decoration: none;
+	color:#061D2B;
+}
+
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-6, .col-md-12 {
 	margin-top: 5px;
 	margin-bottom: 5px
 }
 
-.social-buttons {
-	float: right;
-	margin: 10px;
-	padding: auto
+.social-button {
+	border: 1px solid #838383;
+	border-radius: 50%;
+	-webkit-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;
 }
 
 .about-image {
